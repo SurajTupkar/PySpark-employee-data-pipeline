@@ -1,0 +1,11 @@
+employee_id,full_name,department,job_title,employment_type,base_salary,bonus,joining_date,location,status
+101,Anil Mehta,Engineering,Senior Software Engineer,Full-Time,125000,15000,2019-06-10,Bangalore,Active
+102,Priya Nair,Engineering,Data Engineer,Full-Time,135000,20000,2020-03-18,Bangalore,Active
+103,Rahul Verma,Finance,Financial Analyst,Full-Time,98000,12000,2018-11-05,Mumbai,Active
+104,Neha Kulkarni,HR,HR Business Partner,Full-Time,90000,,2021-01-15,Pune,Active
+105,Siddharth Jain,Engineering,Backend Engineer,Contract,110000,,2022-08-01,Remote,Active
+106,Kavita Sharma,Sales,Regional Sales Manager,Full-Time,115000,18000,2017-09-25,Delhi,Active
+107,Aman Gupta,Operations,Operations Lead,Full-Time,,14000,2016-04-12,Hyderabad,Active
+108,Meenal Patil,Engineering,Platform Engineer,Full-Time,145000,25000,,Bangalore,Active
+109,Rohit Bansal,Finance,Finance Manager,Full-Time,155000,30000,2015-02-20,Mumbai,Active
+110,Pooja Malhotra,HR,Talent Acquisition Lead,Full-Time,95000,10000,2023-05-08,Gurgaon,Active
