@@ -1,7 +1,7 @@
 Employee Data Processing Pipeline (PySpark)
 
 📌 Project Overview
-
+```
 -> This project is an end-to-end PySpark data pipeline designed to process employee data in a structured, scalable, and production-ready manner.
 -> The pipeline demonstrates core Data Engineering fundamentals, including:
    1) Schema enforcement
@@ -10,7 +10,7 @@ Employee Data Processing Pipeline (PySpark)
    4) Analytical aggregations
    5) Partitioned storage
    6) Centralized logging
-
+```
 
 
 🏗️ Architecture Flow
@@ -130,6 +130,7 @@ Corrupt records
 ```
 
 📝 Logging
+```
 -> Centralized logging using python logging.
 -> Logs are written to "logs/app.log".
 -> Logs are also visible on the terminal.
@@ -143,30 +144,31 @@ source venv/bin/activate
 
 2. Run the Pipeline
 python src/main.py
-
+```
 
 🎯 Key Highlights
-
+```
 -> Modular, production-ready code structure
 -> Schema enforcement & corrupt record handling
 -> Partitioned Parquet output for performance
 -> Clean separation of responsibilities
 -> Interview-ready Data Engineering project
-
+```
 
 🚀 Future Enhancements
-
+```
 -> Unit testing with PyTest
 -> Configuration management via YAML
 -> Spark submit integration
 -> Cloud storage support (S3/ADLS)
 -> Workflow orchestration (Airflow)
-
+```
 
 👨‍💻 Author
 Suraj Tupkar
 Data Engineer
 PYTHON | SQL | PySpark | AWS
+
 
 
 
