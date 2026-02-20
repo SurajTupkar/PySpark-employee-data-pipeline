@@ -61,6 +61,7 @@ PySpark/Employee Data Processing Pipeline/
 
 ⚙️ Technologies Used
 
+```
 -> Python 3.12
 -> Apache Spark 3.5.1
 -> PySpark
@@ -68,9 +69,11 @@ PySpark/Employee Data Processing Pipeline/
 -> Git & GitHub
 -> VS Code
 
-
+```
 
 📥 Input Data
+
+```
 
 employees.csv
 
@@ -88,8 +91,11 @@ Missing values
 Incorrect schema
 Corrupt records
 
+```
 
 🔄 Processing Logic
+
+```
 
 1. Reader (reader.py)
 -> Enforces schema using StructType
@@ -121,6 +127,7 @@ Corrupt records
                 -> /department_summary
                 -> /corrupt_records
 
+```
 
 📝 Logging
 -> Centralized logging using python logging.
@@ -160,5 +167,6 @@ python src/main.py
 Suraj Tupkar
 Data Engineer
 PYTHON | SQL | PySpark | AWS
+
 
 
