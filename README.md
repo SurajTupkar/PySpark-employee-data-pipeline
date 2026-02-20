@@ -28,6 +28,7 @@ Employee Data Processing Pipeline (PySpark)
 
 📂 Project Folder Structure
 
+```
 PySpark/Employee Data Processing Pipeline/
 │
 ├── data/
@@ -56,6 +57,7 @@ PySpark/Employee Data Processing Pipeline/
 ├── requirements.txt
 └── README.md
 
+```
 
 ⚙️ Technologies Used
 
@@ -156,6 +158,7 @@ python src/main.py
 
 👨‍💻 Author
 Suraj Tupkar
-Aspiring Data Engineer
+Data Engineer
 PYTHON | SQL | PySpark | AWS
+
 
