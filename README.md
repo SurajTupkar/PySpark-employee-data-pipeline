@@ -1,6 +1,7 @@
 Employee Data Processing Pipeline (PySpark)
 
 📌 Project Overview
+
 ```
 -> This project is an end-to-end PySpark data pipeline designed to process employee data in a structured, scalable, and production-ready manner.
 -> The pipeline demonstrates core Data Engineering fundamentals, including:
@@ -11,7 +12,6 @@ Employee Data Processing Pipeline (PySpark)
    5) Partitioned storage
    6) Centralized logging
 ```
-
 
 🏗️ Architecture Flow
 
@@ -56,7 +56,6 @@ PySpark/Employee Data Processing Pipeline/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-
 ```
 
 ⚙️ Technologies Used
@@ -68,13 +67,11 @@ PySpark/Employee Data Processing Pipeline/
 -> WSL (Ubuntu on Windows)
 -> Git & GitHub
 -> VS Code
-
 ```
 
 📥 Input Data
 
 ```
-
 employees.csv
 
 Contains employee-level information such as:
@@ -90,13 +87,11 @@ The pipeline handles:
 Missing values
 Incorrect schema
 Corrupt records
-
 ```
 
 🔄 Processing Logic
 
 ```
-
 1. Reader (reader.py)
 -> Enforces schema using StructType
 -> Reads CSV in FAILFAST mode
@@ -126,10 +121,10 @@ Corrupt records
                 -> /employees
                 -> /department_summary
                 -> /corrupt_records
-
 ```
 
 📝 Logging
+
 ```
 -> Centralized logging using python logging.
 -> Logs are written to "logs/app.log".
@@ -147,6 +142,7 @@ python src/main.py
 ```
 
 🎯 Key Highlights
+
 ```
 -> Modular, production-ready code structure
 -> Schema enforcement & corrupt record handling
@@ -156,6 +152,7 @@ python src/main.py
 ```
 
 🚀 Future Enhancements
+
 ```
 -> Unit testing with PyTest
 -> Configuration management via YAML
@@ -165,9 +162,11 @@ python src/main.py
 ```
 
 👨‍💻 Author
+```
 Suraj Tupkar
 Data Engineer
 PYTHON | SQL | PySpark | AWS
+```
 
 
 
