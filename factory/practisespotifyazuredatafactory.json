@@ -1,0 +1,15 @@
+{
+	"name": "practisespotifyazuredatafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fbf750f5-9f01-43cd-ae6b-18cd7dc1f1b7",
+		"tenantId": "d68e62af-628d-4c08-91b4-93c133ab6444"
+	}
+}
